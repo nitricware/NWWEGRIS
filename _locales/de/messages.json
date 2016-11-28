@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Google Reverse Image Search by NitricWare",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Fügt bei einem Rechts-Klick auf ein Bild einen Eintrag im Kontext-Menü hinzu, der eine Google Reverse Image Search ermöglicht.",
+    "description": "Description of the add-on."
+  },
+
+  "contextMenu": {
+    "message": "Google nach dem Bild durchsuchen",
+    "description": "Name of the extension."
+  }
+}
